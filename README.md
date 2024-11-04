@@ -1,10 +1,10 @@
 # Dawn Extension Bot [1.5] 本地模型识别
-# 原作者https://github.com/Jaammerr/The-Dawn-Bot 防止正义人士
-**原作者的推特: [@Hy78516012，如果觉得有用请给我点个关注吧)**
+# 原作者[Jaammerr](https://github.com/Jaammerr/The-Dawn-Bot) 防止正义人士
+**原作者的推特: [雪糕战神](https://x.com/Hy78516012)**
 
-**我的的推特: [@happyport4，如果觉得有用请给我点个关注吧)**
+**我的推特: [keien⚡️BlockChain.Dev](https://x.com/Happyporter4)**
 
----
+
 
 ## 🚀 功能
 

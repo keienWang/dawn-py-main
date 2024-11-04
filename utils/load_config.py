@@ -50,7 +50,7 @@ def get_params() -> Dict:
 
 
 
-def get_accounts(file_name: str) -> Generator[Account, None, None]:
+def get_accounts(file_name: str) -> Generator[Account, None,None]:
     accounts = read_file(os.path.join(CONFIG_DATA_PATH, file_name), check_empty=False)
     for account in accounts:
         try:

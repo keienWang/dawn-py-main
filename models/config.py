@@ -10,7 +10,6 @@ class Account(BaseModel):
     email: str
     password: str
     imap_server: str = ""
-    proxy: Proxy
 
 
 class Config(BaseModel):

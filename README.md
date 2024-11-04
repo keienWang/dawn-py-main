@@ -2,6 +2,7 @@
 # 原作者[Jaammerr](https://github.com/Jaammerr/The-Dawn-Bot) 防止正义人士
 **原作者的推特: [雪糕战神](https://x.com/Hy78516012)**
 
+**本项目是由小伙伴基于以上两位大佬优化的版本**
 **我的推特: [keien⚡️BlockChain.Dev](https://x.com/Happyporter4)**
 
 
